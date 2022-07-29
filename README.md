@@ -9,7 +9,7 @@ I'm `Adnan Sarkar`. This is the second assignment in my [Full Stack Javascript](
 - CSS
 
 ## 🖥 Preview
-[Live Preview]()
+[Live Preview](https://food-restaurant-homepage-project-2.netlify.app/)
 
 ![](Food%20Restaurant%20Home%20Page.png)
 
