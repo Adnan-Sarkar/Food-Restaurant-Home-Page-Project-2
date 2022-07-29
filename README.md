@@ -9,6 +9,8 @@ I'm `Adnan Sarkar`. This is the second assignment in my [Full Stack Javascript](
 - CSS
 
 ## 🖥 Preview
+`note:` please make sure the preview screen is `1920 x 1080`
+
 [Live Preview](https://food-restaurant-homepage-project-2.netlify.app/)
 
 ![](Food%20Restaurant%20Home%20Page.png)
