@@ -18,7 +18,7 @@ I'm `Adnan Sarkar`. This is the second assignment in my [Full Stack Javascript](
 - Clear understanding of CSS positioning property.
 
 ## ⏲ Time to finish the project
-As it is my first project, it took me around 1.5-2.0 hours to complete this project.
+As it is my second project, it took me around 1.5-2.0 hours to complete this project.
 
 ## 📢 Social Links
 - [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adnan-sarkar-8b54341a0/)
